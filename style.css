@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+.red-set {
+    background-color: blueviolet; /*задает фоновый цвет */
+    width: 75px; /*ширина элемента */
+    height: 75px; /*высота элемента */
+    border: solid 25 px red; /* задает размер рамок и саму рамку */
+    border-radius: 50; /* задает закругление рамкам */
+}
+
+h1 {
+   color: black; /* цвет элемента */
+   font-size: 40 px; /* размер шрифта */
+   text-align: center; /* центрирование текста */
+   }
